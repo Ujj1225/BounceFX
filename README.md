@@ -1,9 +1,11 @@
-# ImageFX
-"ImageFX: Interactive Image Filtering Application"
+BounceFX
 
-In the context of the project name, "FX" stands for "Effects." So, "ImageFX" implies an application that deals with image effects or filters. It suggests that the application is focused on applying various effects to images. Here, I have focused on making a user interface which allows end user to do the following things with images:
+"BounceFX: Interactive BounceBall"
 
-    Load Images: Users will have a feature to select and load images from your computer.
-    Adjust Brightness: They will be able to make the loaded image brighter or darker.
-    Convert to Black and White: They can turn the image into a black and white version.
-    Highlight Edges: Users can also apply a filter that makes the edges of objects in the image more pronounced.
+In the context of the project name, "FX" stands for "Effects." So, "BounceFX" implies an application that deals with interactive bouncing ball effects. It suggests that the application is focused on creating an interactive simulation of bouncing balls. Here, I have focused on making a user interface which allows the end user to do the following things with the bouncing balls simulation:
+
+Control Camera View: Users will have the ability to control the camera's view of the bouncing balls.
+Toggle Bouncing: They will be able to control the bouncing behavior of the balls.
+Explore Physics: Users can interactively observe the physics of ball motion and collision.
+Toggle Effects: They can also toggle various visual effects related to ball rendering and environment.
+
